@@ -1,8 +1,5 @@
-# 👩🏻‍💻 Gabrita Off
+# Gabrita Off
 
-**`{O que você faz, aqui}`**
-
-Me chamo Fulana de Tal, tenho xx anos e sou natural do blabla...blablabla. Sou apaixonada por {exemplos} e compartilho meu conhecimento através do meu canal no YouTube "[Gabrita Off](https://www.youtube.com/@gabritaoff)", onde ensino a blabla...bla, e também através do Instagram, com o perfil chamado "[Gabrita](https://www.instagram.com/gabritaas/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@gabritaoff?sub_confirmation=1">
